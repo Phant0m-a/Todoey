@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flash_chat/screens/task_screen.dart';
+import 'package:todoey/screens/task_screen.dart';
 
 void main() => runApp(Todoey());
 
@@ -11,3 +11,4 @@ class Todoey extends StatelessWidget {
     );
   }
 }
+ 
